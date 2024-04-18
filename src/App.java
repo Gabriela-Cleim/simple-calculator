@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+ * Calculadora Simples: Crie um programa que solicite dois números do usuário e realize operações 
+ * matemáticas básicas (adição, subtração, multiplicação, divisão) com esses números.
+ */
 public class App {
     public static void main(String[] args) throws Exception {
         
